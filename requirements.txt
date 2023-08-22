@@ -1,0 +1,6 @@
+pydantic
+requests
+python-dotenv
+fastapi
+uvicorn
+vercel_kv
